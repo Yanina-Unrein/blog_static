@@ -1,3 +1,4 @@
+//Custom properties (CSS variablees)
 :root{
     --color-white: #FFF;
     --color-black-pearl-50: #E4EBEE;
@@ -11,3 +12,6 @@
 
     --container-max-width: 1180px;
 }
+
+// SASS Variables
+$breakpoint-large: 992px;
